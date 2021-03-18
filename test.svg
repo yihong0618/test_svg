@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 122.91 110.38">
-    <defs>
-        <style>.hg{fill:#ee2330;opacity:0}</style>
-    </defs>
+
     <g id="Layer_2" data-name="Layer 2">
         <g id="Layer_1-2" data-name="Layer 1">
-            <path class="hg" d="M61.65 86.78l-.16-.06L0 109.38v.99l61.49-22.65 61.43 22.66v-.99L61.65 86.78z">
-                <animate attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="0;1;1;0;0" repeatCount="indefinite"/>
+            <path class="hg" d="M61.65 86.78l-.16-.06L0 109.38v.99l61.49-22.65 61.43 22.66v-.99L61.65 86.78z" fill="#ffa70f">
+                <animate  attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="0;1;1;0;0" repeatCount="indefinite"/>
             </path>
-            <path class="hg" d="M0 87.69v1.49l61.49-22.66 61.43 22.67v-1.48L61.49 65.04 0 87.69z">
+            <path class="hg" d="M0 87.69v1.49l61.49-22.66 61.43 22.67v-1.48L61.49 65.04 0 87.69z" fill="#ffa70f">
                 <animate attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="1;1;1;1;1" repeatCount="indefinite" begin="1s"/>
             </path>
-            <path class="hg" d="M0 66.05v1.97l61.49-22.66 61.43 22.67v-1.97L61.49 43.39 0 66.05z">
+            <path class="hg" d="M0 66.05v1.97l61.49-22.66 61.43 22.67v-1.97L61.49 43.39 0 66.05z" fill="#ffa70f">
                 <animate attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="0;1;1;0;0" repeatCount="indefinite" begin="2s"/>
             </path>
-            <path class="hg" d="M61.49 21.65L0 44.31v2.64l61.49-22.66 61.43 22.67v-2.64l-61-22.51-.43-.16z">
+            <path class="hg" d="M61.49 21.65L0 44.31v2.64l61.49-22.66 61.43 22.67v-2.64l-61-22.51-.43-.16z" fill="#ffa70f">
                 <animate attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="0;1;1;0;0" repeatCount="indefinite" begin="3s"/>
             </path>
-            <path class="hg" d="M0 22.66v3.13L61.49 3.13l61.43 22.67v-3.13L61.49 0 0 22.66z">
+            <path class="hg" d="M0 22.66v3.13L61.49 3.13l61.43 22.67v-3.13L61.49 0 0 22.66z" fill="#ffa70f">
                 <animate attributeName="opacity" dur="10s" keyTimes="0;0.1;0.5;0.6;1" values="0;1;1;0;0" repeatCount="indefinite" begin="4s"/>
             </path>
         </g>
