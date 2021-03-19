@@ -6,4 +6,4 @@
 	<br>
 </div>
 
-[![](test.svg)](test.svg)
+[![](github.svg)](github.svg)
