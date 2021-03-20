@@ -7,3 +7,4 @@
 </div>
 
 [![](github.svg)](github.svg)
+[![](poster.svg)](poster.svg)
